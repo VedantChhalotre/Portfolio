@@ -6,7 +6,7 @@ This is a simple portfolio website to showcase your skills, projects, and achiev
 
 1. Upload these files to a GitHub repository.
 2. Enable GitHub Pages in repository settings.
-3. Your site will be live at `https://yourusername.github.io/`.
+3. Your site will be live at `https://Vedant Chhalotre.github.io/`.
 
 ## Customize
 
